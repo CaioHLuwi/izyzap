@@ -96,10 +96,10 @@
     "zustand": "^4.4.1"
   },
   "scripts": {
-  "start": "craco start",
-  "build": "NODE_OPTIONS='--max-old-space-size=6144' craco build",
-  "test": "craco test"
-},
+    "start": "craco start",
+    "build": "NODE_OPTIONS='--max-old-space-size=6144' craco build",
+    "test": "craco test"
+  },
   "eslintConfig": {
     "extends": "react-app"
   },
